@@ -1,5 +1,5 @@
-# 🔬 PROJECT 2B: GitHub Repository Topic Classification Based on Textual Metadata
-*(DỰ ÁN 2B: Phân loại Chủ đề Kho lưu trữ GitHub Dựa trên Siêu dữ liệu Văn bản)*
+# 🔬 GitHub Repository Topic Classification Based on Textual Metadata
+*(Phân loại chủ đề kho GitHub dựa trên siêu dữ liệu văn bản)*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-F08030?style=for-the-badge&logo=huggingface&logoColor=white)
@@ -11,17 +11,17 @@
 
 ---
 
-## 🎯 Introduction & Goal
-*(Giới thiệu & Mục tiêu)*
+## 🎯 Introduction & Goal *(Giới thiệu & Mục tiêu)*
 
 * **Problem:** The rapid growth of open-source (OSS) repositories on GitHub has generated vast amounts of textual metadata. While GitHub allows users to assign topics, these labels are often **inconsistent, incomplete, and user-generated**.
+  
     *(**Vấn đề:** Sự phát triển nhanh chóng của các kho mã nguồn mở (OSS) trên GitHub đã tạo ra lượng lớn siêu dữ liệu văn bản. Mặc dù GitHub cho phép người dùng gán chủ đề, các nhãn này thường **không nhất quán, không đầy đủ và do người dùng tạo**.)*
 
 * **Goal:** To develop an automated and comprehensive approach to classify repositories into specific topics based on their textual metadata, primarily the content from **`README.md`** files.
     *(**Mục tiêu:** Phát triển một cách tiếp cận tự động và toàn diện để phân loại các kho lưu trữ vào các chủ đề cụ thể dựa trên siêu dữ liệu văn bản, chủ yếu là nội dung từ file **`README.md`**.)*
 
-* **Main Contributions:**
-    *(**Đóng góp chính:**)*
+* **Main Contributions:** *(**Đóng góp chính:**)*
+    
     1.  Constructed and publicly described a **large, diverse dataset** of `README.md` files, covering over **fifty different topics**.
         *(Xây dựng và mô tả công khai một **tập dữ liệu lớn, đa dạng** gồm các file `README.md`, bao gồm hơn **năm mươi chủ đề** khác nhau.)*
     2.  Developed a **robust text preprocessing** pipeline tailored for software documentation (e.g., stopword enrichment with domain-specific tokens).
