@@ -1,13 +1,13 @@
 # 🔬 GitHub Repository Topic Classification Based on Textual Metadata
 *(Phân loại chủ đề kho GitHub dựa trên siêu dữ liệu văn bản)*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-F08030?style=for-the-badge&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PEFT](https://img.shields.io/badge/PEFT-FFB762?style=for-the-badge&logo=huggingface&logoColor=black)
-![NLTK](https://img.shields.io/badge/NLTK-306998?style=for-the-badge&logo=nltk&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10.11-blue?logo=python)
+![Transformers](https://img.shields.io/badge/Transformers-Models-yellow?logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-Training-red?logo=pytorch)
+![PEFT](https://img.shields.io/badge/PEFT-Fine--tuning-blueviolet?logo=huggingface)
+![NLTK](https://img.shields.io/badge/NLTK-Preprocessing-green?logo=nltk)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-orange?logo=scikit-learn)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
 
 ---
 
@@ -52,9 +52,9 @@
         *(**Recently Updated** (Được cập nhật gần đây).)*
     4.  **Best Match** (Random sampling for diversity)
         *(**Best Match** (Mẫu ngẫu nhiên để tăng tính đa dạng).)*
-* **Target Labels:** 50 granular topics were mapped to **10 broader categories** representing major IT domains, serving as the target labels for the multi-class classification task.
+* **Target Labels:** 50 granular topics were mapped to **10 broader categories** representing major IT domains, serving as the target labels for the multi-class classification task. <br>
     *(**Phân loại Mục tiêu (Target Labels):** 50 chủ đề chi tiết đã được ánh xạ thành **10 danh mục rộng hơn** (categories) đại diện cho các miền chính trong IT, dùng làm nhãn mục tiêu cho nhiệm vụ phân loại đa lớp.)*
-* **Data Distribution:** The dataset was split using **stratified sampling** with an **80% Train** and **20% Test** ratio. Total 57,368 samples, with 45,894 training and 11,474 test samples.
+* **Data Distribution:** The dataset was split using **stratified sampling** with an **80% Train** and **20% Test** ratio. Total 57,368 samples, with 45,894 training and 11,474 test samples. <br>
     *(**Phân phối Dữ liệu:** Tập dữ liệu được phân chia theo **lấy mẫu phân tầng (stratified sampling)** với tỷ lệ **80% cho tập huấn luyện (Train)** và **20% cho tập kiểm tra (Test)**. Tổng cộng 57.368 mẫu, với 45.894 mẫu huấn luyện và 11.474 mẫu kiểm tra.)*
 
 ### B. Preprocessing Pipeline *(Quy trình Tiền xử lý)*
@@ -145,3 +145,18 @@ The fine-tuned Transformer model achieved **superior performance improvements**.
 
 ---
 
+## 👥 Authors *(Nhóm Thực hiện)*
+
+**Students:** *(Sinh viên thực hiện)*  
+- Hồ Gia Thành  
+- Huỳnh Thái Linh  
+- Trương Minh Khoa  
+
+**Supervisor:** *(Giảng viên hướng dẫn)* *ThS. Lê Nhật Tùng*  
+**University:** *(Trường)* Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa học Dữ liệu*  
+**Year:** *(Năm thực hiện)* 2025
+
+---
+
+> © 2025 — Project: *GitHub Repository Topic Classification Based on Textual Metadata*  
+> *Developed for academic research and educational purposes.*
