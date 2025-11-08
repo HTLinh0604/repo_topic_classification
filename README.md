@@ -1,11 +1,11 @@
 # 🔬 GitHub Repository Topic Classification Based on Textual Metadata
 *(Phân loại chủ đề kho GitHub dựa trên siêu dữ liệu văn bản)*
 
-![Python](https://img.shields.io/badge/Python-3.10.11-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Transformers](https://img.shields.io/badge/Transformers-Models-yellow?logo=huggingface)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Training-red?logo=pytorch)
 ![PEFT](https://img.shields.io/badge/PEFT-Fine--tuning-blueviolet?logo=huggingface)
-![NLTK](https://img.shields.io/badge/NLTK-Preprocessing-green?logo=nltk)
+![NLP](https://img.shields.io/badge/NLP-Preprocessing-green?logo=nltk)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Models-orange?logo=scikit-learn)
 ![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098?logo=graphql)
 
