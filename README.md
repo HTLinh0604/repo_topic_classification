@@ -1,4 +1,4 @@
-# 🔬 GitHub Repository Topic Classification Based on Textual Metadata
+#  GitHub Repository Topic Classification Based on Textual Metadata
 *(Phân loại chủ đề kho GitHub dựa trên siêu dữ liệu văn bản)*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Introduction & Goal *(Giới thiệu & Mục tiêu)*
+##  Introduction & Goal *(Giới thiệu & Mục tiêu)*
 
 **Problem:** The rapid growth of open-source (OSS) repositories on GitHub has generated vast amounts of textual metadata. While GitHub allows users to assign topics, these labels are often **inconsistent, incomplete, and user-generated**. <br>
 *(Vấn đề: Sự phát triển nhanh chóng của các kho mã nguồn mở (OSS) trên GitHub đã tạo ra lượng lớn siêu dữ liệu văn bản. Mặc dù GitHub cho phép người dùng gán chủ đề, các nhãn này thường không nhất quán, không đầy đủ và do người dùng tạo.)*
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 Data & Preprocessing *(Dữ liệu & Tiền xử lý)*
+##  Data & Preprocessing *(Dữ liệu & Tiền xử lý)*
 
 ### A. Data Collection *(Thu thập Dữ liệu)*
 
@@ -75,7 +75,7 @@ A custom preprocessing pipeline was applied to remove noise typical in software 
 
 ---
 
-## 🛠️ Methodology & Models *(Phương pháp & Kiến trúc Mô hình)*
+##  Methodology & Models *(Phương pháp & Kiến trúc Mô hình)*
 
 ### A. Feature Representation *(Biểu diễn Đặc trưng)*
 
@@ -102,7 +102,7 @@ A custom preprocessing pipeline was applied to remove noise typical in software 
 
 ---
 
-## 📈 Experimental Results *(Kết quả Thực nghiệm)*
+##  Experimental Results *(Kết quả Thực nghiệm)*
 
 Performance was evaluated using Precision (P), Recall (R), F1-score (F1), and Accuracy.<br>
 *(Hiệu suất được đánh giá bằng Precision (P), Recall (R), F1-score (F1), và Accuracy.)*
@@ -136,7 +136,7 @@ The fine-tuned Transformer model achieved **superior performance improvements**.
 
 ---
 
-## 🏁 Conclusion *(Kết luận)*
+##  Conclusion *(Kết luận)*
 
 * **Power of Transformers:** The fine-tuned Mistral-7B model demonstrated **superior representational power** and deeper contextual understanding compared to classical models. <br>
     *(**Sức mạnh của Transformer:** Mô hình Mistral-7B tinh chỉnh đã chứng minh **khả năng biểu diễn vượt trội** và hiểu biết ngữ cảnh sâu sắc hơn so với các mô hình cổ điển.)*
@@ -145,7 +145,7 @@ The fine-tuned Transformer model achieved **superior performance improvements**.
 
 ---
 
-## 👥 Authors *(Nhóm Thực hiện)*
+##  Authors *(Nhóm Thực hiện)*
 
 **Students:** *(Sinh viên thực hiện)*  
 - Hồ Gia Thành  
